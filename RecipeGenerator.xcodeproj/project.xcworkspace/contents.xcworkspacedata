@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:classProject.xcodeproj">
+      location = "self:/Users/minoshik/Downloads/classProject/RecipeGenerator.xcodeproj">
    </FileRef>
 </Workspace>
